@@ -1,0 +1,11 @@
+<div id="header">
+  <div id="title">
+    <%= image_tag("title.png") %>
+  </div>
+  <ul id="links">
+    <% page_links_for_navigation.each do |link| -%>
+      <li><%= link_to(link.name, link.url) %></li>
+    <% end -%>
+  </ul>
+</div>
+

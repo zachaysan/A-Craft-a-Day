@@ -15,4 +15,4 @@ author:
 # If you're deploying with mongrel, make sure you read http://rhnh.net/2008/04/13/nginx-openid-delegation-and-yadis
 open_id_delegation:
   server:   http://www.myopenid.com/server
-    delegate: http://username.myopenid.com
+  delegate: http://zachaysan.myopenid.com

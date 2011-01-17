@@ -6,9 +6,10 @@ author:
   name:    Laura Degroot        # For copyright notice and ATOM feeds
   email:   laurardegroot@gmail.com # Exception emails will go here, and it is used in ATOM feeds
   open_id: 
-      - http://zachaysan.twitter.com                 # These are used to login to the admin area
-      - http://enkiblog.com
-      - http://secondaryopenid.com
+      - http://www.google.com/profiles/zachaysan
+#      - http://zachaysan.twitter.com                 # These are used to login to the admin area
+#      - http://enkiblog.com
+#      - http://secondaryopenid.com
 
 # Delete the following section if your site will not be acting as an OpenID delegate (http://wiki.openid.net/Delegation)
 # If you're deploying with mongrel, make sure you read http://rhnh.net/2008/04/13/nginx-openid-delegation-and-yadis

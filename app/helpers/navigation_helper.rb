@@ -21,7 +21,7 @@ module NavigationHelper
 
   def friends_and_idols_links_for_navigation
     link = Struct.new(:name, :url)
-    [link.new("Google", "http://google.com"),
-     link.new("Zaccus", "http://zachaysan.tumbrl.com")]
+    [link.new("Craftgawker", "http://craftgawker.com"),
+     link.new("My Vintage Secret", "http://myvintagesecret.com")]
   end
 end

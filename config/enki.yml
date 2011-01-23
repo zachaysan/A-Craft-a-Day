@@ -1,9 +1,9 @@
 # Configuration options for your blog - customise to taste
 # This file contains no secret information, so can be stored in source control (unlike database.yml)
-title: A Craft a Day
+title: a craft a day
 url:   http://lauradegroot.ca
 author:
-  name:    Laura Degroot        # For copyright notice and ATOM feeds
+  name:    Laura DeGroot        # For copyright notice and ATOM feeds
   email:   laurardegroot@gmail.com # Exception emails will go here, and it is used in ATOM feeds
   open_id: 
 #      - http://www.google.com/profiles/zachaysan

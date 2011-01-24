@@ -96,7 +96,7 @@ padding:22px 22px 0px 22px;}
 p 
 { 
   font-size:12px;
-  font-family:"serif";
+  font-family:"tahoma";
   line-height: 17px;
 }
 h1{
@@ -105,6 +105,14 @@ h1{
   color: #003333;
 
 }
+h1 a{
+  font-size:18px;
+  font-family:"tahoma";
+  color: #003333;
+
+}
+
+
 h2{font-size:16px;font-family:"tahoma";}
 li{font-size:12px;font-family:"tahoma"; line-height: 17px;}
 ul{list-style-type:none; padding:0; margin:0;}

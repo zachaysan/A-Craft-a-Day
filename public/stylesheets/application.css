@@ -1,6 +1,4 @@
 
-
-
 /* High level containers */
 body
 {
@@ -139,7 +137,6 @@ html, body {height: 100%;}
 
 #outer {overflow:auto;
 	padding-bottom: 50px;}  /* must be same height as the footer */
-
 
 
 #footer
@@ -423,7 +420,7 @@ hr
   background-color: #f8f8f8;
   border: 1px solid silver;
   padding: 10px;
-}
+  font-family: "tahoma";}
 
 /* Syntax */
 

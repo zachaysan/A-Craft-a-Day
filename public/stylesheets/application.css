@@ -70,7 +70,7 @@ float: left;
 margin-right: 10px;
 margin-top: 10px;
 padding: 20px 20px 20px 20px;
-background-color: #FFFFCC;
+background-color: #F5F5DC;
 border-width: 1px;
 }
 
@@ -78,7 +78,7 @@ border-width: 1px;
 #navigation{
 float:left;
 width: 228px;
-background-color: #FFFFCC;
+background-color: #F5F5DC;
 margin-top: 10px;
 border-width: 1px;
 /* display: inline; */

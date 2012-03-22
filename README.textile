@@ -1,5 +1,5 @@
 h1. A Craft a Day
 
-This app will bring the joy of crafting to all who know and follow Laura Degroot! 
+This app brings the joy of crafting to all who know and follow Laura Degroot! Check it out at lauradegroot.ca :)
 
 Many thanks to Xavier Shay for providing such a good framework to build off of.

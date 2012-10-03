@@ -1,0 +1,18 @@
+# Configuration options for your blog - customise to taste
+# This file contains no secret information, so can be stored in source control (unlike database.yml)
+title: a craft a day
+url:   http://lauradegroot.ca
+author:
+  name:    Laura DeGroot        # For copyright notice and ATOM feeds
+  email:   laurardegroot@gmail.com # Exception emails will go here, and it is used in ATOM feeds
+  open_id: 
+#      - http://www.google.com/profiles/zachaysan
+       - http://lauradegroot.myopenid.com                 # These are used to login to the admin area
+#      - http://enkiblog.com
+#      - http://secondaryopenid.com
+
+# Delete the following section if your site will not be acting as an OpenID delegate (http://wiki.openid.net/Delegation)
+# If you're deploying with mongrel, make sure you read http://rhnh.net/2008/04/13/nginx-openid-delegation-and-yadis
+open_id_delegation:
+#  server:   http://www.myopenid.com/server
+#  delegate: http://zachaysan.myopenid.com
